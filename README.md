@@ -1,8 +1,9 @@
-# 💫 한형섭 이력서 | 백엔드 중심 Java/Spring 개발자
+# 💫 한형섭 이력서 | 백엔드 Java/Spring 웹개발자
 
 ![Last Commit](https://img.shields.io/github/last-commit/OWNER/REPOSITORY?style=flat-square&label=Last%20Update)
 
 📞 +82 10 4446 6245 | ✉️ xepi@naver.com
+
 
 안녕하세요, 11년차 백엔드 개발자 한형섭입니다. 저는 현대케피코에서 근무하며 Java Spring, ASP.NET, RDBMS, RESTful API, Querydsl 등 폭넓은 기술 스택을 활용했습니다. 특히, 인사관리 시스템을 성공적으로 개발하고 안정적으로 운영하며 현업에서 핵심적인 역할을 수행했습니다.
 
@@ -18,7 +19,7 @@
 
 ## 🛠️ 기술 스택
 
-| 분류         | 기술 스택                                     | 비고                                     |
+| 분류         | 기술 스택                                     | 숙련도                                     |
 | :----------- | :-------------------------------------------- | :-------------------------------------------- |
 | **언어** | Java, C#, Python                  | 주프로젝트엔 java를, 오토에버 연계는 ASP.NET, 모듈러나 소규모 서비스는 Python를 이용                 |
 | **프레임워크** | Spring, ASP.NET, Flask       |  - |
