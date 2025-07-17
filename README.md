@@ -2,7 +2,7 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/OWNER/REPOSITORY?style=flat-square&label=Last%20Update)
 
-📞 +82 10 4446 6245 | ✉️ topapu@gmail.com
+📞 +82 10 4446 6245 | ✉️ topapu@gmail.com | 📜 [경력기술서](career_description.md "경력기술서")
 
 <img src = 'mainPhoto.jpg' width="150" height="150" alt="누르지 마세요~" align="left"> 
  
@@ -45,7 +45,7 @@
 
 ---
 
-## 📜 상세 경력 사항
+## 📜 요약 경력 사항 | [링크 - 경력기술서](career_description.md "경력기술서")
 
 ### ㈜솔로몬텍(현대케피코 파견/상주) | 정규직 개발 및 운영 책임 (2018.02 - 재직 중)
 
@@ -99,3 +99,5 @@
 
 * **정보처리기사** (2011.09) | 한국산업인력공단
 * **AZURE-900** (2022.09) | Microsoft
+
+## 📜 [경력기술서](career_description.md "경력기술서")
