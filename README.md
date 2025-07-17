@@ -1,4 +1,4 @@
-# 💫 한형섭 이력서 | 백엔드 Java/Spring 웹개발자
+# 💫 한형섭 이력서 | 백엔드 Java 웹개발자
 
 ![Last Commit](https://img.shields.io/github/last-commit/jakaruru/hyungsup?style=flat-square&label=Last%20Update)
 
