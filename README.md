@@ -2,7 +2,7 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/OWNER/REPOSITORY?style=flat-square&label=Last%20Update)
 
-📞 +82 10 4446 6245 | ✉️ xepi@naver.com
+📞 +82 10 4446 6245 | ✉️ topapu@gmail.com
 
 <img src = 'mainPhoto.jpg' width="150" height="150" alt="누르지 마세요~" align="left"> 
  
