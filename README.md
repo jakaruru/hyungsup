@@ -5,12 +5,12 @@
 📞 +82 10 4446 6245 | ✉️ xepi@naver.com
 
 <img src = 'mainPhoto.jpg' width="150" height="150" alt="누르지 마세요~" align="left"> 
- <br />
+ 
  안녕하세요. <br />
 11년차 백엔드 개발자 한형섭입니다. <br />
 저는 솔로몬텍㈜ 소속으로 현대케피코에 파견되어 상주근무하며 Java Spring, ASP.NET, RDBMS, RESTful API, Querydsl 등 폭넓은 기술 스택을 활용했습니다. <br />
 특히, 인사관리 시스템을 성공적으로 개발하고 안정적으로 운영하며 현업에서 핵심적인 역할을 수행했습니다. <br />
- <br />
+ 
  
 ---
 
