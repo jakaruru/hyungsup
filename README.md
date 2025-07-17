@@ -1,6 +1,6 @@
 # 💫 한형섭 이력서 | 백엔드 Java/Spring 웹개발자
 
-![Last Commit](https://img.shields.io/github/last-commit/OWNER/REPOSITORY?style=flat-square&label=Last%20Update)
+![Last Update](https://img.shields.io/github/last-commit/OWNER/REPOSITORY?style=flat-square&label=Last%20Update)
 
 📞 +82 10 4446 6245 | ✉️ topapu@gmail.com | 📜 [경력기술서](career_description.md "경력기술서")
 
