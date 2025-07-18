@@ -2,7 +2,7 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/jakaruru/hyungsup?style=flat-square&label=Last%20Update)
 
-📞 +82 10 4446 6245 | ✉️ topapu@gmail.com | 📜 [경력기술서](DOC/career_description.md "경력기술서") | 🚀 [포트폴리오](DOC/portfolio.md "포트폴리오") | 🍃 [다운로드](PDF/resume.zip "모든문서 다운로드")
+📞 +82 10 4446 6245 | ✉️ topapu@gmail.com | [📜 경력기술서](DOC/career_description.md "경력기술서") | [🚀 포트폴리오](DOC/portfolio.md "포트폴리오") | [🍃 다운로드](PDF/resume.zip)
 
 <img src = 'img/myPhoto.jpg' width="150" height="150" alt="누르지 마세요~" align="left"> 
  
@@ -100,8 +100,8 @@
 * **정보처리기사** (2011.09) | 한국산업인력공단
 * **AZURE-900** (2022.09) | Microsoft
 
-## 📜 [경력기술서](DOC/career_description.md "경력기술서")
+## [📜 경력기술서](DOC/career_description.md "경력기술서")
 
-## 🚀 [포트폴리오](DOC/portfolio.md "포트폴리오")
+## [🚀 포트폴리오](DOC/portfolio.md "포트폴리오")
 
 
