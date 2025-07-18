@@ -2,7 +2,7 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/jakaruru/hyungsup?style=flat-square&label=Last%20Update)
 
-📞 +82 10 4446 6245 | ✉️ topapu@gmail.com | 📜 [경력기술서](DOC\career_description.md "경력기술서") | 🚀 [포트폴리오](portfolio.md "포트폴리오")
+📞 +82 10 4446 6245 | ✉️ topapu@gmail.com | 📜 [경력기술서](DOC/career_description.md "경력기술서") | 🚀 [포트폴리오](portfolio.md "포트폴리오")
 
 <img src = 'myPhoto.jpg' width="150" height="150" alt="누르지 마세요~" align="left"> 
  
