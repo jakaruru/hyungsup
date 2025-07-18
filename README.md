@@ -2,7 +2,7 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/jakaruru/hyungsup?style=flat-square&label=Last%20Update)
 
-📞 +82 10 4446 6245 | ✉️ topapu@gmail.com | [📜 경력기술서](DOC/career_description.md "경력기술서") | [🚀 포트폴리오](DOC/portfolio.md "포트폴리오") 
+📞 +82 10 4446 6245 | ✉️ topapu@gmail.com | [📜 경력기술서](DOC/career_description.md "경력기술서") | [🚀 포트폴리오](DOC/portfolio2.md "포트폴리오") 
 
 
 <img src = 'img/myPhoto.jpg' width="150" height="150" alt="누르지 마세요~" align="left"> 
@@ -46,7 +46,7 @@
 
 ---
 
-## 📜 요약 경력 사항 | [링크 - 경력기술서](DOC/career_description.md "경력기술서") | [링크 - 포트폴리오](DOC/portfolio.md "포트폴리오") 
+## 📜 요약 경력 사항 | [링크 - 경력기술서](DOC/career_description.md "경력기술서") | [링크 - 포트폴리오](DOC/portfolio2.md "포트폴리오") 
 
 ### ㈜솔로몬텍(현대케피코 파견/상주) | 정규직 개발 및 운영 책임 (2018.02 - 재직 중)
 
@@ -103,6 +103,6 @@
 
 ## [📜 경력기술서](DOC/career_description.md "경력기술서")
 
-## [🚀 포트폴리오](DOC/portfolio.md "포트폴리오")
+## [🚀 포트폴리오](DOC/portfolio2.md "포트폴리오")
 
 
