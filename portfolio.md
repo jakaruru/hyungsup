@@ -1,7 +1,6 @@
 # 🚀 한형섭 포트폴리오 | 안정과 개선을 위한 여정
 
-💫 [이력서](README.md "이력서") 
-📜 [경력기술서](career_description.md "경력기술서")
+💫 [이력서](README.md "이력서")  | 📜 [경력기술서](career_description.md "경력기술서")
 
 ---
 
