@@ -4,6 +4,7 @@
 
 📞 +82 10 4446 6245 | ✉️ topapu@gmail.com | [📜 경력기술서](DOC/career_description.md "경력기술서") | [🚀 포트폴리오](DOC/portfolio.md "포트폴리오") 
 
+
 <img src = 'img/myPhoto.jpg' width="150" height="150" alt="누르지 마세요~" align="left"> 
  
  안녕하세요. <br />
